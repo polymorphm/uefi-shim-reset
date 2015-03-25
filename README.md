@@ -11,4 +11,4 @@ You must have installed ``shim`` in your EFI system partition.
 Status
 ------
 
-Developer version (git master branch).
+Release: uefi-shim-reset-0.1.1 .
